@@ -1,4 +1,4 @@
-# Hotel-booking-data-analysis
+# Hotel booking data analysis
 data analysis of hotel booking
 # Hotel Bookings Exploratory Data Analysis
 
